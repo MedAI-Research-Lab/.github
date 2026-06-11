@@ -1,12 +1,18 @@
-## Hi there 👋
+# MedAI Research Lab 🚀
 
-<!--
+## 🏛️ Members & Roles
 
-**Here are some ideas to get you started:**
+### 🎓 Scientific Supervision
+* **Dr. Gökalp Tulum** 
+  * *Role:* Principal Investigator (PI) & Research Supervisor
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🧠 AI Development Team
+* **Marziye Jalili**
+  * *Role:* AI Research & Core Developer
+
+* **Melisa Güler**
+  * *Role:* AI Research Partner & Algorithm Developer
+
+### 👥 Clinical Collaborators
+* **Dr. Alaaddin** — Clinical Collaborator (Radiology)
+* **Dr. Burak** — Clinical Collaborator (Radiology)
