@@ -1,4 +1,4 @@
-# MedAI Research Lab 🚀
+# MedAI Research Lab 
 
 ## 🏛️ Members & Roles
 
