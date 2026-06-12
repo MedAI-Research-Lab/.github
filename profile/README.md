@@ -1,7 +1,7 @@
 # 🏛️ Members & Roles
 
 ## 🎓 Scientific Supervision
-* #**Dr. Gökalp Tulum** 
+* **Dr. Gökalp Tulum** 
   * *Role:* Principal Investigator (PI) & Research Supervisor
 
 ## 🧠 AI Development Team
